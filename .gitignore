@@ -1,0 +1,22 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and large files
+*.csv
+*.xlsx
+*.zip
+*.7z
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environments
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
