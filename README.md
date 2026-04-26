@@ -49,4 +49,4 @@ The Hybrid CNN-LSTM utilizes a 50-epoch cycle to achieve deep convergence, outpe
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
-**Wend-wooga Konvelbo** [GitHub](https://github.com/wendkonvelbo) | [LinkedIn](YOUR_LINKEDIN_URL)
+**Wend-wooga Konvelbo** [GitHub](https://github.com/wendkonvelbo) | [www.linkedin.com/in/wend-wooga-konvelbo-1a7210253)
